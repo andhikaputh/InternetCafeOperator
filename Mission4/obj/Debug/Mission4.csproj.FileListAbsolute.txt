@@ -1,0 +1,10 @@
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\bin\Debug\Mission4.exe.config
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\bin\Debug\Mission4.exe
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\bin\Debug\Mission4.pdb
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.csproj.AssemblyReference.cache
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.Form1.resources
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.Properties.Resources.resources
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.csproj.GenerateResource.cache
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.csproj.CoreCompileInputs.cache
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.exe
+C:\Users\ANDHIKA\source\repos\Mission4\Mission4\obj\Debug\Mission4.pdb
